@@ -25,7 +25,7 @@ Feel free to reach out to Murat through their GitHub, LinkedIn, or Twitter accou
 
 - **UI/UX Design Tools**
 
-- [*] Figma
+- [X] Figma
 - [ ] Adobe XD
 - [ ] Other (Please specify)
 
