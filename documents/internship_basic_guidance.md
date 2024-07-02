@@ -31,18 +31,18 @@ Feel free to reach out to Murat through their GitHub, LinkedIn, or Twitter accou
 
 - **IDE (Integrated Development Environment)**
 
-- [ ] Android Studio
+- [X] Android Studio
 - [ ] Visual Studio Code
 - [ ] Other (Please specify)
 
 - **Version Control System**
 
-- [ ] Git
+- [X] Git
 - [ ] Other (Please specify)
 
 - **Repository Hosting**
 
-- [ ] GitHub
+- [X] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
 - [ ] Other (Please specify)
@@ -51,7 +51,7 @@ Feel free to reach out to Murat through their GitHub, LinkedIn, or Twitter accou
 
 - [ ] Slack
 - [ ] Microsoft Teams
-- [ ] Other (Please specify)
+- [X] Other (Please specify)
 
 - **API Integration**
 
