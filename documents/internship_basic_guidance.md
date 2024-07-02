@@ -128,7 +128,7 @@ This updated work plan aims to ensure that interns effectively utilize their 250
 
 The essential topics for a Flutter intern include fundamental knowledge of Flutter and Dart programming language. They should grasp UI design using Material Design and Cupertino styles, along with commonly used widget types. Understanding state management is crucial, including the usage of setState() and knowledge about state management libraries like Provider, BLoC, MobX. Additionally, they must handle API integration, asynchronous operations, HTTP requests, and utilize Navigator for page transitions. Database integration, package management, testing, debugging, hardware utilization (camera, sensors, location), performance optimization, and optional Firebase integration are also vital skills. Working on these topics will help the intern gain practical experience and actively contribute to real-world projects.
 
-- [ ] **Flutter Basics**
+- [X] **Flutter Basics**
 
   - What is Flutter and how does it work?
   - Basic knowledge of Dart programming language.
