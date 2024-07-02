@@ -4,29 +4,28 @@
 
 In this document, you can find the information about the intern who participated in the Flutter internship program.
 
-## Intern Name: John Doe
+## Intern Name: Ömer Murat Kırca
 
 - University: ABC University
 - Department: Computer Engineering
 - Year: 3rd Year
-- Email: <john.doe@example.com>
-- GitHub: [johndoe](https://github.com/johndoe)
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
-- Twitter: [@johndoe](https://twitter.com/johndoe)
+- Email: <omermurat2312@gmail.com>
+- GitHub: [Omskka]([https://github.com/johndoe](https://github.com/Omskka))
+- LinkedIn: [Ömer Murat Kırca](https://www.linkedin.com/in/ömer-murat-kırca-4a93a7231/)
 
-John Doe is a talented computer engineering student currently in their third year at ABC University.
+Ömer Muart Kırca is a talented computer engineering student currently in their third year at İstinye University.
 
-With a passion for mobile app development and a keen interest in Flutter, John joined our internship program to further enhance their skills and gain hands-on experience in real-world projects.
+With a passion for mobile app development and a keen interest in Flutter, Murat joined our internship program to further enhance their skills and gain hands-on experience in real-world projects.
 
-Throughout the internship, John has demonstrated great enthusiasm and dedication to mastering Flutter and delivering high-quality work.
+Throughout the internship, Murat has demonstrated great enthusiasm and dedication to mastering Flutter and delivering high-quality work.
 
-Feel free to reach out to John through their GitHub, LinkedIn, or Twitter accounts to connect or learn more about their projects and experiences during the internship.
+Feel free to reach out to Murat through their GitHub, LinkedIn, or Twitter accounts to connect or learn more about their projects and experiences during the internship.
 
 ## **Intern's Project Development Env. Checklist:**
 
 - **UI/UX Design Tools**
 
-- [ ] Figma
+- [*] Figma
 - [ ] Adobe XD
 - [ ] Other (Please specify)
 
