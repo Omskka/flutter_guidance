@@ -10,7 +10,7 @@ In this document, you can find the information about the intern who participated
 - Department: Computer Engineering
 - Year: 3rd Year
 - Email: <omermurat2312@gmail.com>
-- GitHub: [Omskka]([https://github.com/johndoe](https://github.com/Omskka))
+- GitHub: [Omskka]([https://github.com/johndoe](https://github.com/Omskka)
 - LinkedIn: [Ömer Murat Kırca](https://www.linkedin.com/in/ömer-murat-kırca-4a93a7231/)
 
 Ömer Muart Kırca is a talented computer engineering student currently in their third year at İstinye University.
