@@ -6,7 +6,7 @@ In this document, you can find the information about the intern who participated
 
 ## Intern Name: Ömer Murat Kırca
 
-- University: ABC University
+- University: İstinye University
 - Department: Computer Engineering
 - Year: 3rd Year
 - Email: <omermurat2312@gmail.com>
