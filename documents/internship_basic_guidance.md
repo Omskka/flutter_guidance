@@ -31,7 +31,7 @@ Feel free to reach out to Murat through their GitHub, LinkedIn, or Twitter accou
 
 - **IDE (Integrated Development Environment)**
 
-- [] Android Studio
+- [ ] Android Studio
 - [X] Visual Studio Code
 - [ ] Other (Please specify)
 
