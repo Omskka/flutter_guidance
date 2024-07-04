@@ -31,8 +31,8 @@ Feel free to reach out to Murat through their GitHub, LinkedIn, or Twitter accou
 
 - **IDE (Integrated Development Environment)**
 
-- [X] Android Studio
-- [ ] Visual Studio Code
+- [] Android Studio
+- [X] Visual Studio Code
 - [ ] Other (Please specify)
 
 - **Version Control System**
@@ -135,7 +135,7 @@ The essential topics for a Flutter intern include fundamental knowledge of Flutt
   - Understanding widgets and their usage.
   - Difference between stateful and stateless widgets.
   - Overview of common widget types and their use cases.
-- [ ] **UI Design and Flutter Widgets**
+- [X] **UI Design and Flutter Widgets**
 
   - Designing UI and creating interfaces in Flutter.
   - Using Material Design and Cupertino styles.
